@@ -1,10 +1,5 @@
 <?php
 include('include/connect.php');
-
-
-
-
-
 ?>
 
 <!DOCTYPE html>
