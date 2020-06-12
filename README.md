@@ -4,7 +4,4 @@ OkProctor is a CERP application for college which provides various facilities li
 checking all the details related to the particular subject like IA marks, attendance, shared notes etc. It can also be used to make announcements
 on different levels.
 
-Technologies used:
-Front End:- HTML, CSS, JS
-Back End:- PHP
-DB:- MySql
+Technologies used: HTML, CSS, JS, PHP, MySql
